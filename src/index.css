@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+a {
+  color: #ea3546;
+  text-decoration: none;
+}
+
+.{entity} h2 {
+  font-size: 2.5rem;
+}
+
+.{entity}-excerpt {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.{entity}-excerpt:first-of-type {
+  padding-top: 0;
+}
+
+.{entity}-excerpt h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
