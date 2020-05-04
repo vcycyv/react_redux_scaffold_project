@@ -7,12 +7,8 @@ This project was based on [Create React App](https://github.com/facebook/create-
     cd <project-name>
 2. install modules
     
-    yarn add \ # or npm i
-    redux \
-    react-redux \
-    redux-thunk \
-    redux-devtools-extension \
-    react-router-dom
+    yarn add redux react-redux redux-thunk redux-devtools-extension react-router-dom
+    
 3. replace src folder in your project with the 'src' folder from this scaffold project
 4. edit template.sh for the first five lines(export statements) to suit your project, and run ./template.sh
 5. sudo yarn start
