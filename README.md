@@ -3,8 +3,10 @@ This project was based on [Create React App](https://github.com/facebook/create-
 ## Steps
 
 1. initialize project
+
     npx create-react-app <project-name>
     cd <project-name>
+    
 2. install modules
     
     yarn add redux react-redux redux-thunk redux-devtools-extension react-router-dom
