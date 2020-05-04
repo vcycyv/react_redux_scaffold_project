@@ -6,6 +6,7 @@ This project was based on [Create React App](https://github.com/facebook/create-
     npx create-react-app <project-name>
     cd <project-name>
 2. install modules
+    
     yarn add \ # or npm i
     redux \
     react-redux \
