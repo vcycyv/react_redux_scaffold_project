@@ -4,8 +4,7 @@ This project was based on [Create React App](https://github.com/facebook/create-
 
 1. initialize project
 
-    npx create-react-app <project-name>
-    cd <project-name>
+    npx create-react-app [project-name] && cd [project-name]
     
 2. install modules
     
